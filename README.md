@@ -1,6 +1,6 @@
 # Cardiovascular-Health-Analysis
 
-Siddhiheshwari Sawant 22053604
+Siddheshwari Sawant 22053604
 
 Cindy Le 20196112
 
