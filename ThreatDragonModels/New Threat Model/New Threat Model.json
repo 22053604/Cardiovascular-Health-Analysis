@@ -36,13 +36,6 @@
               "description": "",
               "isTrustBoundary": true,
               "hasOpenThreats": false
-            },
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove"
-              ],
-              "name": null
             }
           },
           {
@@ -455,14 +448,14 @@
               "y": 155
             },
             "target": {
-              "x": 630,
+              "x": 650,
               "y": 210
             }
           },
           {
             "position": {
-              "x": 630,
-              "y": 150
+              "x": 650,
+              "y": 125.00000000000009
             },
             "size": {
               "width": 120,
