@@ -36,6 +36,13 @@
               "description": "",
               "isTrustBoundary": true,
               "hasOpenThreats": false
+            },
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove"
+              ],
+              "name": null
             }
           },
           {
@@ -296,7 +303,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "DB Response",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
@@ -308,7 +315,7 @@
               "threats": []
             },
             "labels": [
-              "Data Flow"
+              "DB Response"
             ],
             "id": "71dc3291-e6a9-4ad0-98c0-fcbcd822324c",
             "source": {
@@ -428,7 +435,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "SQL Commands",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
@@ -440,7 +447,7 @@
               "threats": []
             },
             "labels": [
-              "Data Flow"
+              "SQL Commands"
             ],
             "id": "3f600036-add4-4af8-88a6-d2e01cad9079",
             "source": {
